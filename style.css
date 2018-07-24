@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(53,53,53);
+}
+
+.top{
+    color:whitesmoke;
+    text-align: center;
+}
+ 
+header{
+    font-family: Tangerine;
+    font-size:72px;
+    color:whitesmoke;
+}
+
+h3{
+    font-family: unica one;
+    font-size: 26px;
+    color:whitesmoke;
+}
